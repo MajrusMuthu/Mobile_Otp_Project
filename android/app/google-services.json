@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953441263282",
+    "project_id": "mobileproject-13709",
+    "storage_bucket": "mobileproject-13709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953441263282:android:a66c1204030d5af161b3ab",
+        "android_client_info": {
+          "package_name": "com.example.smsproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Yz--Lv6_lpESIXOHgAdvLLkTBMFdKPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
